@@ -18,6 +18,10 @@ This project involves the analysis of flight data from the year 2015, encompassi
   - Contains data on various airlines, including IATA codes and names.
   - Used to map IATA codes to corresponding airlines in the flights dataset.
 
+- **Additional Note on Flights Data:**
+  - Due to the large size of the flights data file, it is hosted on Kaggle. You can download it from [Kaggle - flights.csv](https://www.kaggle.com/twoja-nazwa-uzytkownika/nazwa-zbioru-danych).
+  - After downloading, place the file in the `data/` directory of the project.
+
 ## Analysis and Visualizations
 
 ### 1. Overview of Flight Delays
