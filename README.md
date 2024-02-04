@@ -54,8 +54,8 @@ This project involves the analysis of flight data from the year 2015, encompassi
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/flight-delays-analysis.git
-cd flight-delays-analysis
+git clone https://github.com/BartoszSzyca/Flight_Delay_Prediction.git
+cd Flight_Delays_Prediction
 ```
 
 ## Authors
